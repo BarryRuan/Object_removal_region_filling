@@ -73,7 +73,7 @@ For 'sample3.jpg' and 'sample4.jpg', the correspinding masks have been placed in
 
 ## Authorship
 
-This project is equally contributed by [Zhiming Ruan](https://github.com/BarryRuan) and [Nan Wang](https://github.com/wwangnan), and [Zanhua Huang] (thanks to them!).
+This project is equally contributed by [Xinlu Li](https://github.com/lixinlu1997) and [Nan Wang](https://github.com/wwangnan), and [Zanhua Huang] (thanks to them!).
 
 ## Citation
 
